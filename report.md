@@ -5,7 +5,6 @@
 - **Roll number:** 537711
 - **Repository:** https://github.com/Talhakhan366/webgis-lab3-537711
 - **Live map:** https://talhakhan366.github.io/webgis-lab3-537711/
----
 
 ## 1. Checkpoint screenshots
 
@@ -106,3 +105,6 @@ For the tehsil layer, which has several times as many features, each with more v
 
 **Q6.** Use `L.circle` for a 25 km evacuation zone. Its radius is in metres, so at every zoom level it covers the real ground within 25 km. Use `L.circleMarker` to mark the campus on a national map. Its radius is in pixels, so it stays visible at the same size at any zoom. At zoom 5, a 25 km `L.circle` shrinks to a few pixels and is hard to see.
 
+## Commit history
+
+https://github.com/Talhakhan366/webgis-lab3-537711/commits/main
