@@ -1,10 +1,10 @@
 # Lab 3 Report: District Dashboard
 
-**Course:** Web GIS, MS Remote Sensing and GIS, IGIS, NUST
-**Name:** Muhammad Talha Abdullah Khan
-**Roll number:** 537711
-**Live page:** `https://github.com/Talhakhan366/webgis-lab-537711/tree/main/lab3`
-
+- **Course:** Web GIS, MS Remote Sensing and GIS, IGIS, NUST
+- **Name:** Muhammad Talha Abdullah Khan
+- **Roll number:** 537711
+- **Repository:** https://github.com/Talhakhan366/webgis-lab3-537711
+- **Live map:** https://talhakhan366.github.io/webgis-lab3-537711/
 ---
 
 ## 1. Checkpoint screenshots
